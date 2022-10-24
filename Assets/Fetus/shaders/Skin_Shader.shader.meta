@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 1bb98981e7654744ea7078737fde67ea
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _AlbedoTex: {fileID: 2800000, guid: 573df8b10ee57c44ca37ece58c936c29, type: 3}
+  - _TranslucencyDepthTex: {fileID: 2800000, guid: 573df8b10ee57c44ca37ece58c936c29, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
