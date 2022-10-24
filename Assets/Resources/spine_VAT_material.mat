@@ -33,11 +33,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _VAT_normals:
-        m_Texture: {fileID: 2800000, guid: e3ec619546e174f40bc1f1f3d4142b21, type: 2}
+        m_Texture: {fileID: 2800000, guid: 9c26e06b166c4417397d7b07734fb813, type: 2}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _VAT_positions:
-        m_Texture: {fileID: 2800000, guid: ec45cb5d62dc14eaf8c199d14a040c8c, type: 2}
+        m_Texture: {fileID: 2800000, guid: 0539905cd335745bebb7ad1d581db3cf, type: 2}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _texcoord:
