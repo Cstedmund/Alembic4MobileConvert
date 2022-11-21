@@ -7,14 +7,14 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: spine_VAT_material
-  m_Shader: {fileID: 4800000, guid: c612623b988226c4cb97dce85b880655, type: 3}
+  m_Name: VATMaterialBack
+  m_Shader: {fileID: 4800000, guid: fa09da5672cbf402c8b2f159ddfd7b9a, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 3000
+  m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
@@ -33,11 +33,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _VAT_normals:
-        m_Texture: {fileID: 2800000, guid: 9c26e06b166c4417397d7b07734fb813, type: 2}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _VAT_positions:
-        m_Texture: {fileID: 2800000, guid: 0539905cd335745bebb7ad1d581db3cf, type: 2}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _texcoord:
@@ -59,26 +59,23 @@ Material:
     m_Ints: []
     m_Floats:
     - _AlphaCutoff: 0.5
-    - _Framecount: 720
+    - _Framecount: 240
     - _Metalness: 0
-    - _Opacity: 0.808
-    - _OpacityFresnel: 0.85
+    - _Opacity: 0.5
+    - _OpacityFresnel: 0.972
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Roughness: 0.5
+    - _Roughness: 0
     - _Timeposition: 0
-    - _TransAmbient: 0.2
-    - _TransDirect: 1
+    - _TransAmbient: 0.1
+    - _TransDirect: 0.9
     - _TransNormal: 0.5
-    - _TransNormalDistortion: 0.1
     - _TransScattering: 2
-    - _TransShadow: 0.9
+    - _TransShadow: 0.5
     - _TransStrength: 1
-    - _Translucency: 1
     - _TransmissionShadow: 0.5
-    - __dirty: 0
     m_Colors:
-    - _Color: {r: 0.23137255, g: 0.4392157, b: 0.5529412, a: 0}
+    - _Color: {r: 0.4470588, g: 0.1923082, b: 0.1345647, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
-    - _TranslucencyColorFilter: {r: 1, g: 0.4745098, b: 0.42745098, a: 0}
+    - _TranslucencyColorFilter: {r: 1, g: 0.8912421, b: 0.748, a: 0}
   m_BuildTextureStacks: []
