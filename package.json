@@ -1,6 +1,6 @@
 {
-	"name": "com.ed.AlembicToVATMobileURP",
-	"displayName": "AlembicToVATMobileURP",
+	"name": "com.ed.alembictovatmobileurp",
+	"displayName": "Alembic To VAT Mobile URP",
 	"description": "Parse Alembic To VAT for Mobile URP",
 	"version": "1.0.0",
 	"unity": "2021.3",
